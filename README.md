@@ -6,6 +6,8 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
+Status: 
+[![Post welcome comment](https://github.com/sonusathyadas/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg)](https://github.com/sonusathyadas/skills-hello-github-actions/actions/workflows/welcome.yml)
 ## Finish
 
 _Congratulations friend, you've completed this course!_
