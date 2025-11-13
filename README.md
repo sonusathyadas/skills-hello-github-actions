@@ -2,6 +2,8 @@
 
 # Hello GitHub Actions
 
+[![Post welcome comment](https://github.com/sonusathyadas/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg)](https://github.com/sonusathyadas/skills-hello-github-actions/actions/workflows/welcome.yml)
+
 _Create and run a GitHub Actions workflow._
 
 </header>
